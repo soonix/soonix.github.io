@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: Willkommen - Bonvenon - Bienvenu - Welcome - Здравствуйте!
-tagline: Ĉefpaĝo
+title: Willkommen - Bonvenon - Bienvenu - Welcome!
+tagline: hmmm...
 ---
 {% include JB/setup %}
 
