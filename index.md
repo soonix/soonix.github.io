@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Willkommen - Bonvenon - Bienvenu - Welcome!
 tagline: hmmm...
