@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Willkommen - Bonvenon - Welcome - %D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!
+title: Willkommen - Bonvenon - Welcome - &#1079;&#1076;&#1088;&#1072;&#1074;&#1089;&#1090;&#1074;&#1091;&#1081;&#1090;&#1077;!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
