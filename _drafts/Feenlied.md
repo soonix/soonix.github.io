@@ -7,20 +7,20 @@ Klaus Baldermann 2010, Lied der Fee im Musical
 
 Glaube stets daran,  
 dein Weg mag schwer dir scheinen,  
-f‰llst du dann und wann,  
+f√§llst du dann und wann,  
 willst du auch manchmal weinen,  
-doch du weiﬂt, es kann  
-im Groﬂen wie im Kleinen  
+doch du wei√üt, es kann  
+im Gro√üen wie im Kleinen  
 nichts dir widerstehn:  
 Gib niemals auf!  
 
 Hoffe nur darauf,  
 dein Weg ist schon bereitet,  
 scheint es manchmal auch,  
-daﬂ er dich irreleitet  
+da√ü er dich irreleitet  
 doch du kommst ans Ziel  
 wenn du nur tapfer schreitest  
-drum vergiﬂ es nie:  
+drum vergi√ü es nie:  
 Gib niemals auf!  
 
 Gib niemals auf  
@@ -40,3 +40,6 @@ die Begleitmusik,
 der Klang, mit dem du findest,  
 was so lang gefehlt...  
 Gib niemals auf!  
+
+Lizenziert unter CC-BY-NC-ND (Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung) 3.0 - siehe
+[Creative Commons Lizenzvertrag](http://creativecommons.org/licenses/by-nc-nd/3.0/de/)
