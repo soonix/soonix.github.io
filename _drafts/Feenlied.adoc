@@ -1,9 +1,10 @@
 = Gib niemals auf
 Klaus Baldermann <klaus@soonix.de>
 
-[[Feenlied]]
-[verse, Klaus Baldermann 2010, Lied der Fee im Musical 
 http://www.musikschule-baldermann.de/archiv/8-musikschule/3-musical-aschenputtel-am-24-und-25-april-2010[Aschenputtel]]
+
+[[Feenlied]]
+[verse, Klaus Baldermann 2010, Lied der Fee im Musical Aschenputtel]
 ____
 Glaube stets daran,
 dein Weg mag schwer dir scheinen,
